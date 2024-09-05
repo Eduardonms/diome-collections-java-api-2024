@@ -3,7 +3,7 @@
 <p align="center">
 <img src="../../../../assets/image/set-interface-hierarchy.png" alt="Set interface hierarchy Java"><br>
 <a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
-</p>
+</p>[Pesquisa](Pesquisa)
 
 - A interface `Set` é uma coleção que não pode conter elementos duplicados.
 - Essa interface representa o conceito matemático de um conjunto e é usada para representar conjuntos, como um baralho de cartas.
